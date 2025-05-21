@@ -1,2 +1,2 @@
 # Mi Configuracion de obsidian
-algunos datos a tener en cuenta
+Descarga el zip, extraelo, y abrí la carpeta en obsidian como un vault
