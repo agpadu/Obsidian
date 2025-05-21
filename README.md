@@ -1,2 +1,0 @@
-# My-Obsidian
-Plugins configurated
